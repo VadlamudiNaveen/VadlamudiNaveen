@@ -1,5 +1,8 @@
 ### Hi, I'm Naveen Vadlamudi 
-I am a Software Engineer, currently working with **@VALUE MOMENTUM** on Data.
+A Software Engineer, currently working with **@VALUE MOMENTUM** on Data.
+Current i am working on projects which impacts life of every individual, 
+and also my dream is to make a world super crazy place to live. 
+And i am a Strong Beleiver of Self-Learning, and Self-reliance.
 
 - 🔭 I’m currently working with 
      > **Data@ValueMomentum**  
