@@ -1,8 +1,10 @@
 
 ### Hi, I'm Naveen Vadlamudi 
+
 A Software Engineer, currently working with **@VALUE MOMENTUM** on **Data**.
 Currently I am working on projects which impacts life of every individual, 
 my dream is to make the world super crazy place.
+<img align="right" src="undraw_server_push_vtms.png" alt="server-push-data" width=400px />
 
 **I Dream, I Code and I Write**
 
@@ -20,7 +22,7 @@ my dream is to make the world super crazy place.
 - 🤔 Thoughtful Fact:
   > **Cosmic Rays Cause Memory Error In Computers.**
   
- <img align="right" src="" alt="" width=400px />
+ 
 
 
 
