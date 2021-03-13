@@ -1,8 +1,10 @@
 ### Hi, I'm Naveen Vadlamudi 
-A Software Engineer, currently working with **@VALUE MOMENTUM** on Data.
-Current i am working on projects which impacts life of every individual, 
-and also my dream is to make a world super crazy place to live. 
-And i am a Strong Beleiver of Self-Learning, and Self-reliance.
+A Software Engineer, currently working with **@VALUE MOMENTUM** on **Data**.
+Currently I am working on projects which impacts life of every individual, 
+my dream is to make the world super crazy place.
+
+**I Dream, I Code and I Write**
+
 
 - 🔭 I’m currently working with 
      > **Data@ValueMomentum**  
@@ -13,6 +15,6 @@ And i am a Strong Beleiver of Self-Learning, and Self-reliance.
 - 😄 Speaks
   > **English, Telugu, Hindi, Tamil(Elementary)**  
 - ⚡ Important note: 
-  > **Loves Technology.**
+  > **Loves Technology.** 
 
 
