@@ -1,6 +1,5 @@
-### Hurray
-
-Few Facts about myself:
+### Hi, I'm Naveen Vadlamudi 
+I am a Software Engineer, currently working with **@VALUE MOMENTUM** on Data.
 
 - 🔭 I’m currently working with 
      > **Data@ValueMomentum**  
