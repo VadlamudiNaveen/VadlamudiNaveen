@@ -10,7 +10,7 @@ Few Facts about myself:
   > **Data and DB, EDA , Python , AWS , SnowFlake.**
 - 😄 Speaks
   > **English, Telugu, Hindi, Tamil(Elementary)**  
-- ⚡ important note: 
+- ⚡ Important note: 
   > **Loves Technology.**
 
 
