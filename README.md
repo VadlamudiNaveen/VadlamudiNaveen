@@ -3,11 +3,10 @@
 
 A Software Engineer, currently working with **@VALUE MOMENTUM** on **Data**.
 Currently I am working on projects which impacts life of every individual, 
-my dream is to make the world super crazy place.
-<img align="right" src="undraw_developer_activity_bv83.png" alt="server-push-data" width=400px />
+my dream is to make the world better.
+<img align="right" src="undraw_developer_activity_bv83.png" alt="developer-activity" width=600px />
 
 **I Dream, I Code and I Write**
-
 
 - 🔭 I’m currently working with 
      > **Data@ValueMomentum**  
@@ -23,6 +22,7 @@ my dream is to make the world super crazy place.
   > **Cosmic Rays Cause Memory Error In Computers.**
   
  
+<img align="right" src="undraw_server_push_vtms.png" alt="server-push-data" width=500px />
 
 
 
