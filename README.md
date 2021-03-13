@@ -1,3 +1,4 @@
+<img align="right" src="" alt="" width=400px />
 ### Hi, I'm Naveen Vadlamudi 
 A Software Engineer, currently working with **@VALUE MOMENTUM** on **Data**.
 Currently I am working on projects which impacts life of every individual, 
@@ -12,9 +13,12 @@ my dream is to make the world super crazy place.
      > **Kubernetes, Web-Development**
 - 💬 Ask me about: 
   > **Data and DB, EDA , Python , AWS , SnowFlake.**
-- 😄 Speaks
-  > **English, Telugu, Hindi, Tamil(Elementary)**  
+- 📫 How to reach me:
+     >  **vadlamudinaveen1999@gmail.com**
 - ⚡ Important note: 
   > **Loves Technology.** 
+- 🤔 Thoughtful Fact:
+  > **Cosmic Rays Cause Memory Error In Computers."
+
 
 
