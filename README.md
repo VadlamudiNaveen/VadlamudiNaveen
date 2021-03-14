@@ -20,7 +20,7 @@ my dream is to make the world better place by solving problems.
 - ⚡ Important note: 
   > **Loves Technology.** 
 - 🤔 Thoughtful Fact:
-  > **Cosmic Rays will Causes Memory Error In Computers.**
+  > **Cosmic Rays will Cause Memory Error, for computing devices.**
   
  
 
