@@ -12,7 +12,7 @@ my dream is to make the world better place by solving problems.
 - 🔭 I’m currently working with 
      > **Data@ValueMomentum**  
 - 🌱 I’m currently learning ... 
-     > **Kubernetes, Web-Development**
+     > **kubernetes**
 - 💬 Ask me about: 
   > **Anything related to computer Science**
 - 📫 How to reach me:
