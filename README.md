@@ -14,7 +14,7 @@ my dream is to make the world better place by solving problems.
 - 🌱 I’m currently learning ... 
      > **Kubernetes, Web-Development**
 - 💬 Ask me about: 
-  > **Data and DB, EDA , Python , AWS , SnowFlake.**
+  > **Anything related to computer Science**
 - 📫 How to reach me:
      >  **vadlamudinaveen1999@gmail.com**
 - ⚡ Important note: 
