@@ -19,7 +19,8 @@ my dream is to make the world better place by solving problems.
      >  **vadlamudinaveen1999@gmail.com**
 
 
-![](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+<img align= "right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500" />
+
 - Skills ...
      > **Docker, Sql,Snowflake ,EDA, Nodejs, Typescript, JavaScript, Kubernetes, Web Development**
  
