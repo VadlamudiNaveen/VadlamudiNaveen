@@ -17,7 +17,7 @@ my dream is to make the world better place by solving problems.
 - 💬 Ask me about: 
   > **Anything related to computer Science**
 - 📫 How to reach me:
-     >  **vadlamudinaveen1999@gmail.com**
+     >  **🤔**
 
 
 
