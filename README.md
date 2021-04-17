@@ -17,6 +17,9 @@ my dream is to make the world better place by solving problems.
   > **Anything related to computer Science**
 - 📫 How to reach me:
      >  **vadlamudinaveen1999@gmail.com**
+- Skills ...
+> **Docker, Sql, EDA, Nodejs, Typescript, JavaScript, Kubernetes, Web Development**
+
 - ⚡ Important note: 
   > **Loves Technology.** 
 - 🤔 Thoughtful Fact:
