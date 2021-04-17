@@ -23,7 +23,7 @@ my dream is to make the world better place by solving problems.
 
 
 - Skills ...
-     > **Docker, Sql,Snowflake ,EDA, Nodejs, Typescript, JavaScript, Kubernetes, Web Development**
+     > **Docker,SQL,Snowflake ,EDA, Nodejs, Typescript, JavaScript, Kubernetes, Web Development,**
  
 
 - ⚡ Important note: 
