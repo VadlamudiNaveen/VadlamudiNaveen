@@ -12,8 +12,8 @@ my dream is to make the world better place by solving problems.
 
 - 🔭 I’m currently working with 
      > **Data@ValueMomentum**  
-- 🌱 I’m currently learning ... 
-     > **kubernetes**
+- 🌱 I’m currently Focusing on ... 
+     > **Data Engineering **
 - 💬 Ask me about: 
   > **Anything related to computer Science**
 - 📫 How to reach me:
@@ -23,11 +23,10 @@ my dream is to make the world better place by solving problems.
 
 
 - Skills ...
-     > **Docker,**
-     > **SQL, Snowflake**
-     > **EDA, Nodejs,**
-     > **Typescript, JavaScript,** 
-     > **Kubernetes, Web Development**
+     > **SQL, Snowflake CDW, Python, Matillion ELT **
+     > **EDA, Nodejs, **
+     > **Typescript, JavaScript, Docker,** 
+     > **Web Development**
  
 
 - ⚡ Important note: 
