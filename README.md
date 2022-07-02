@@ -12,25 +12,22 @@ my dream is to make the world better place by solving problems.
 
 - 🔭 I’m currently working with 
      > **Data@ValueMomentum**  
+
 - 🌱 I’m currently Focusing on ... 
      > **Data Engineering**
+
 - 💬 Ask me about: 
   > **Anything related to computer Science**
+ 
 - 📫 How to reach me:
      >  **🤔**
 
-
-
-
 - Skills ...
-     > **SQL, Snowflake CDW, Python, Matillion ELT**
-     > **, EDA, Nodejs,**
-     > **Typescript, JavaScript, Docker** 
-     > **Web Development**
- 
+     > **AWS(Cloud), Snowflake CDW, Python, Matillion ELT, Rust (Learning), Docker, Web Development (Flask, JavaScript)**
 
 - ⚡ Important note: 
   > **Loves Technology.** 
+
 - 🤔 Thoughtful Fact:
   > **Cosmic Rays will Cause Memory Error, for computing devices.**
   
