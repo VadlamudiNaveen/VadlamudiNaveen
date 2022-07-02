@@ -23,7 +23,7 @@ my dream is to make the world better place by solving problems.
 
 
 - Skills ...
-     > **SQL, Snowflake CDW, Python, Matillion ELT **
+     > **SQL, Snowflake CDW, Python, Matillion ELT**
      > **EDA, Nodejs,**
      > **Typescript, JavaScript, Docker** 
      > **Web Development**
