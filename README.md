@@ -1,23 +1,25 @@
 
 ### Hi, I'm Naveen Vadlamudi 
 
-A Software Engineer, currently working with **@VALUE MOMENTUM** on **Data**.
-Currently I am working on projects which impacts life of every individual, 
-my dream is to make the world better place by solving problems.
+So,i used to work a CLoud Data Engineer, **@VALUE MOMENTUM**. But currently i am Pursuing my Masters degree from **Univesity of Lethbridge Canada**
+
 <!-- <img align="right" src="undraw_developer_activity_bv83.png" alt="developer-activity" width=500px /> -->
 <!--<img align="right" src="undraw_server_push_vtms.png" alt="server-push-data" width=500px/> -->
 <img align= "right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500px" />
 
-**I Dream, I Code and I Write**
+**Inshort: I Dream, 
+           I Code and 
+           I Write 
+**
 
 - 🔭 I’m currently working with 
-     > **Data@ValueMomentum**  
+     > **Data**  
 
 - 🌱 I’m currently Focusing on ... 
-     > **Data Engineering**
+     > **Data Engineering, Databases **
 
 - 💬 Ask me about: 
-  > **Anything related to computer Science**
+  > **Anything related to Databases**
  
 - 📫 How to reach me:
      >  **[Linkedin](https://www.linkedin.com/in/naveen-kumar-vadlamudi-7a823b172/)**
