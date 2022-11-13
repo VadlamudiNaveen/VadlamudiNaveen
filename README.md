@@ -1,7 +1,7 @@
 
 ### Hi, I'm Naveen Vadlamudi 
 
-So,i used to work a CLoud Data Engineer, **@VALUE MOMENTUM**. But currently i am Pursuing my Masters degree from **Univesity of Lethbridge Canada**
+So,i used to work a Cloud Data Engineer, **@VALUE MOMENTUM**. But currently i am Pursuing my Masters degree from **Univesity of Lethbridge Canada**
 
 <!-- <img align="right" src="undraw_developer_activity_bv83.png" alt="developer-activity" width=500px /> -->
 <!--<img align="right" src="undraw_server_push_vtms.png" alt="server-push-data" width=500px/> -->
