@@ -20,7 +20,7 @@ my dream is to make the world better place by solving problems.
   > **Anything related to computer Science**
  
 - 📫 How to reach me:
-     >  **[Linkedin](https://www.linkedin.com/in/naveen-kumar-vadlamudi-7a823b172/)**, 
+     >  **[Linkedin](https://www.linkedin.com/in/naveen-kumar-vadlamudi-7a823b172/)**
 
 - Skills ...
      > **AWS(Cloud), Snowflake CDW, Python, Matillion ELT, Rust (Learning), Docker, Web Development (Flask, JavaScript)**
