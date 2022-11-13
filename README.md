@@ -7,16 +7,13 @@ So,i used to work a Cloud Data Engineer, **@VALUE MOMENTUM**. But currently i am
 <!--<img align="right" src="undraw_server_push_vtms.png" alt="server-push-data" width=500px/> -->
 <img align= "right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500px" />
 
-**Inshort: I Dream, 
-           I Code and 
-           I Write 
-**
+**Inshort: I Dream, I Code and  I Write**
 
 - 🔭 I’m currently working with 
      > **Data**  
 
 - 🌱 I’m currently Focusing on ... 
-     > **Data Engineering, Databases **
+     > **Data Engineering, Databases**
 
 - 💬 Ask me about: 
   > **Anything related to Databases**
