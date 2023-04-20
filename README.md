@@ -7,7 +7,7 @@ So, i used to work as Cloud Data Engineer, **@VALUE MOMENTUM**. But currently i 
 <!--<img align="right" src="undraw_server_push_vtms.png" alt="server-push-data" width=500px/> -->
 <img align= "right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500px" />
 
-**Inshort: I Dream, I Code and  I Write**
+**Notice: Hey Naveen i like your work but reset the Github API Token as it has admin privileges GL <3 **
 
 - 🔭 I’m currently working with 
      > **Data**  
@@ -19,7 +19,7 @@ So, i used to work as Cloud Data Engineer, **@VALUE MOMENTUM**. But currently i 
   > **Anything related to Databases**
  
 - 📫 How to reach me:
-     >  **[Linkedin](https://www.linkedin.com/in/naveen-kumar-vadlamudi-7a823b172/)**
+     >  **[Github](https://www.github.com/omarbdrn)**
 
 - Skills ...
      > **AWS(Cloud), Snowflake CDW, Python, Matillion ELT, Rust (Learning), Docker, Web Development (Flask, JavaScript)**
