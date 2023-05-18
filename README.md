@@ -1,7 +1,7 @@
 
 ### Hi, I'm Naveen Vadlamudi 
 
-I am Cloud Data Engineer, and i used to work ar **@VALUE MOMENTUM**. But currently i am Pursuing my Masters degree from **Univesity of Lethbridge Canada**
+I am Cloud Data Engineer, and i used to work at **@VALUE MOMENTUM**. But currently i am Pursuing my Masters degree from **Univesity of Lethbridge Canada**
 and also, working as an Intern **@KastechSolutionsGroup**.
 
 <!-- <img align="right" src="undraw_developer_activity_bv83.png" alt="developer-activity" width=500px /> -->
