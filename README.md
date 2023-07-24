@@ -8,7 +8,6 @@ and also, working as an Intern for **@KastechSolutionsGroup**.
 <!--<img align="right" src="undraw_server_push_vtms.png" alt="server-push-data" width=500px/> -->
 <img align= "right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500px" />
 
-**Notice: Hey Naveen i like your work but reset the Github API Token as it has admin privileges GL**
  
 
 - 🌱 I’m currently Focusing on ... 
