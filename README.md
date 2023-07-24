@@ -20,7 +20,7 @@ and also, working as an Intern for **@KastechSolutionsGroup**.
      >  **[Github](https://www.github.com/omarbdrn)**
 
 - Skills ...
-     > **AWS(Cloud), Snowflake CDW, Python, Matillion ELT, Docker, Web Development (Flask, JavaScript)**
+     > **AWS(Cloud), Snowflake CDW, Python, DBT, Airflow, Matillion ELT, Docker, Web Development (Flask, JavaScript)**
 
 - ⚡ Important note: 
   > **Loves Technology.** 
