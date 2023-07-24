@@ -11,7 +11,7 @@ and also, working as an Intern for **@KastechSolutionsGroup**.
  
 
 - 🌱 I’m currently Focusing on ... 
-     > **Data Engineering, Distributed Databases, Database Architectures, Database Performance Optimization, Cloud Database Architectures**
+     > **Data Engineering, Distributed Databases, Database Architectures, Cloud Database Architectures**
 
 - 💬 Ask me about: 
   > **Anything related to Databases**
