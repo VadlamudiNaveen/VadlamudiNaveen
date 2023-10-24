@@ -1,8 +1,8 @@
 
 ### Hi, I'm Naveen Vadlamudi 
 
-I am Cloud Data Engineer, and I used to work at **@VALUE MOMENTUM**. But currently, i am Pursuing my Masters degree from **Univesity of Lethbridge Canada**
-and also, working as an Intern for **@KastechSolutionsGroup**.
+I am Cloud Data Engineer.  Previously I used to work at **@VALUE MOMENTUM**. 
+Currently, i am Pursuing my Masters degree from **Univesity of Lethbridge Canada** and also, working as an Intern for **@KastechSolutionsGroup**.
 
 <!-- <img align="right" src="undraw_developer_activity_bv83.png" alt="developer-activity" width=500px /> -->
 <!--<img align="right" src="undraw_server_push_vtms.png" alt="server-push-data" width=500px/> -->
@@ -11,16 +11,16 @@ and also, working as an Intern for **@KastechSolutionsGroup**.
  
 
 - 🌱 I’m currently Focusing on ... 
-     > **Data Engineering, Distributed Databases, Database Architectures, Cloud Database Architectures**
+     > **Data Engineering, Distributed Databases, Cloud Database Architectures, Cloud Optimization**
 
 - 💬 Ask me about: 
-  > **Anything related to Databases**
+  > **Anything related to Databases, Cloud !**
  
 - 📫 How to reach me:
      >  **[Github](https://www.github.com/omarbdrn)**
 
 - Skills ...
-     > **AWS(Cloud), Snowflake CDW, Python, DBT, Airflow, Matillion ELT, Docker, Web Development (Flask, JavaScript)**
+     > **AWS(Cloud), Snowflake CDW, Python, Apache Spark, DBT, Airflow, Matillion ELT, Docker, Web Development (Flask, JavaScript)**
 
 - ⚡ Important note: 
   > **Loves Technology.** 
