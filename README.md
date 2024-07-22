@@ -1,8 +1,8 @@
 
 ### Hi, I'm Naveen Vadlamudi 
 
-I am a Cloud Data Engineer with expertise in the area of Databases. Previously I used to work at **@VALUE MOMENTUM**. 
-I am pursuing my master's degree from **Univesity of Lethbridge Canada**. After landing in Canada I worked for **@KastechSolutionsGroup** as a Data Engineer Intern. 
+I am a Cloud Data Engineer with expertise in the area of Databases. Previously I used to work at **Value Momentum**. 
+I am pursuing my master's degree from **Univesity of Lethbridge Canada**. After landing in Canada I worked for **KastechSolutionsGroup** as a Data Engineer Intern. 
 Currently, I am working as a Database Engineer and API developer for **Sofvie**.
 
 
